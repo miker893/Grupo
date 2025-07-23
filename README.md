@@ -1,28 +1,30 @@
-# Página Colaborativa de Receitas
+\# Bolo de Cenoura
 
-Este projeto tem como objetivo criar uma página colaborativa com receitas compartilhadas pelos integrantes do grupo.
 
-## Instruções
-- Clique em “Use this template”
-- Crie seu próprio repositório em grupo
-- Siga os exercícios em docs/roteiro_de_atividades.pdf
-- Preencha docs/relatorio.md ao final
-- Entregue o link do repositório no GoogleClassRoom
 
-## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+\## Ingredientes
 
-## Descrição
-Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando boas práticas de versionamento com Git e GitHub.
+\- 3 cenouras médias
 
-## Como Contribuir
-Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+\- 4 ovos
 
-## Serão avaliados:
-- Participação de cada aluno (Insights > Contributors)
-- Organização de branches e commits
-- Uso de issues e pull requests
-- Conflitos resolvidos (se houver)
-- Preenchimento do relatório final
+\- 1 chávena de óleo
+
+\- 2 chávenas de açúcar
+
+\- 2 chávenas de farinha
+
+\- 1 colher de fermento
+
+
+
+\## Modo de Preparo
+
+1\. Bater cenouras, ovos e óleo no liquidificador.
+
+2\. Misturar com os ingredientes secos.
+
+3\. Levar ao forno a 180 °C por 40 minutos.
+
+
+
