@@ -4,11 +4,11 @@
 
 \## Ingredientes
 
-\- 3 cenouras médias
+\- 2 cenouras grandes 
 
-\- 4 ovos
+\- 5 ovos
 
-\- 1 chávena de óleo
+\- 1/5 chávena de óleo
 
 \- 2 chávenas de açúcar
 
